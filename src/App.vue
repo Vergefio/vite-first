@@ -13,8 +13,9 @@ export default {
 <template>
   <div class="container">
     <h1>La mia prima app con Vite</h1>
-    <AppTitle/>
+    <h2>un bassotto</h2>
   </div>
+  <AppTitle/>
 </template>
 
 <style>

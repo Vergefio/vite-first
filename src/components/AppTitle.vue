@@ -10,6 +10,8 @@ export default {
     </div>
 </template>
 
-<style>
-
+<style scoped>
+    h2 {
+        color: red;
+    }
 </style>
